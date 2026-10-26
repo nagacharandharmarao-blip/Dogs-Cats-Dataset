@@ -1,4 +1,4 @@
-Dogs-Cats-Dataset
+# Dogs-Cats-Dataset
 A computer vision dataset containing images of dogs and cats, designed for training and evaluating machine learning models in binary image classification tasks.
 
 ## 📌 Project Overview
